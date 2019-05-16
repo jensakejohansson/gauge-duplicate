@@ -1,0 +1,46 @@
+08:46:51.097 Plugin html-report is already installed.
+08:46:51.099 Plugin python is already installed.
+08:46:51.860 Checking updates...
+08:46:51.862 Downloading https://downloads.gauge.org/plugin/html-report?l=python&p=html-report,json-report,python,screenshot,spectacle&o=windows&a=amd64
+08:46:52.755 Downloading https://downloads.gauge.org/plugin/json-report?l=python&p=html-report,json-report,python,screenshot,spectacle&o=windows&a=amd64
+08:46:53.022 Downloading https://downloads.gauge.org/plugin/python?l=python&p=html-report,json-report,python,screenshot,spectacle&o=windows&a=amd64
+08:46:53.285 Downloading https://downloads.gauge.org/plugin/screenshot?l=python&p=html-report,json-report,python,screenshot,spectacle&o=windows&a=amd64
+08:46:53.553 Downloading https://downloads.gauge.org/plugin/spectacle?l=python&p=html-report,json-report,python,screenshot,spectacle&o=windows&a=amd64
+08:46:54.007 # Specification Heading
+08:46:54.011 ## Vowel counts in single word
+08:46:54.016 * Vowels in English language are {}.
+
+08:46:54.023 * The word {} has {} vowels.
+
+08:46:54.032 ## Vowel counts in multiple word
+08:46:54.037 * Vowels in English language are {}.
+
+08:46:54.048 * Almost all words have vowels {}
+08:46:54.214 Closing connection [127.0.0.1:63788] cause: EOF
+08:46:54.261 Plugin [Html Report] with pid [27780] has exited
+08:46:54.363 Specifications:	1 executed	1 passed	0 failed	0 skipped
+08:46:54.363 Scenarios:	2 executed	2 passed	0 failed	0 skipped
+08:46:54.363 
+Total time taken: 1.16s
+08:46:54.368 Updates are available. Run `gauge update -c` for more info.
+08:56:32.844 Plugin python is already installed.
+08:56:32.845 Plugin html-report is already installed.
+08:56:33.599 Checking updates...
+08:56:33.601 Downloading https://downloads.gauge.org/plugin/html-report?l=python&p=html-report,json-report,python,screenshot,spectacle&o=windows&a=amd64
+08:56:34.394 Downloading https://downloads.gauge.org/plugin/json-report?l=python&p=html-report,json-report,python,screenshot,spectacle&o=windows&a=amd64
+08:56:34.617 Downloading https://downloads.gauge.org/plugin/python?l=python&p=html-report,json-report,python,screenshot,spectacle&o=windows&a=amd64
+08:56:34.846 Downloading https://downloads.gauge.org/plugin/screenshot?l=python&p=html-report,json-report,python,screenshot,spectacle&o=windows&a=amd64
+08:56:35.065 Downloading https://downloads.gauge.org/plugin/spectacle?l=python&p=html-report,json-report,python,screenshot,spectacle&o=windows&a=amd64
+08:56:35.554 # Specification Heading
+08:56:35.557 ## Vowel counts in single word
+08:56:35.560 * Vowels in English language are {}.
+
+08:56:35.567 * The word {} has {} vowels.
+
+08:56:35.615 Closing connection [127.0.0.1:64425] cause: EOF
+08:56:35.686 Plugin [Html Report] with pid [30436] has exited
+08:56:35.787 Specifications:	1 executed	1 passed	0 failed	0 skipped
+08:56:35.787 Scenarios:	1 executed	1 passed	0 failed	0 skipped
+08:56:35.788 
+Total time taken: 937ms
+08:56:35.791 Updates are available. Run `gauge update -c` for more info.

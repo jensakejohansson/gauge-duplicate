@@ -1,0 +1,24 @@
+08:40:57.459 Watching directory: c:\Users\jensj\Work\gauge3\specs
+08:40:57.460 Initializing concepts cache with 0 concepts
+08:40:57.461 Found 1 files
+08:40:57.462 Initializing specs cache with 1 specs
+08:40:57.463 Adding specs from c:\Users\jensj\Work\gauge3\specs\example.spec
+08:40:57.463 Initializing steps cache with 1 steps
+08:40:57.464 Starting language runner
+08:40:59.580 LangServer: reading on stdin, writing on stdout
+08:44:39.425 Spec file removed: c:\Users\jensj\Work\gauge3\specs\example.spec
+08:44:46.613 Removing watcher on : c:\Users\jensj\Work\gauge3\specs
+08:46:12.184 request #27: textDocument/definition: Step implementation not found for step : Almost all words have vowels {}
+08:47:04.217 request #33: textDocument/definition: Step implementation not found for step : Almost all words have vowels {}
+08:47:46.481 Watching directory: c:\Users\jensj\Work\gauge3\applications\app1
+08:47:46.481 Found 1 files
+08:47:46.482 Initializing concepts cache with 0 concepts
+08:47:46.484 Initializing specs cache with 1 specs
+08:47:46.484 Adding specs from c:\Users\jensj\Work\gauge3\applications\app1\example.spec
+08:47:46.484 Initializing steps cache with 1 steps
+08:47:46.485 Starting language runner
+You are using pip version 19.0.3, however version 19.1.1 is available.
+You should consider upgrading via the 'python -m pip install --upgrade pip' command.
+08:47:48.360 Python: 3.7.2
+08:47:48.372 Listening on port:63865
+08:47:48.373 LangServer: reading on stdin, writing on stdout
